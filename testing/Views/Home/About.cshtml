@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "About Us - Amazon";
+    Layout = null; // Or set to your _Layout.cshtml if you have one
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/about.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">Amazon</div>
+        <nav>
+            <ul>
+                <li>@Html.ActionLink("Home", "Landing", "Home")</li>
+                @* <li>@Html.ActionLink("Landing", "Landing", "Home")</li> *@
+                <li>@Html.ActionLink("About", "About", "Home", null, new { @class = "active" })</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about">
+        <h1>About Us</h1>
+        <p>
+            At <strong>Amazon</strong>, we strive to be the world’s most customer-centric company,
+            where customers can find and discover anything they might want to buy online,
+            and endeavors to offer its customers the lowest possible prices.
+        </p>
+        <p>
+            Since our founding in 1994, we’ve grown from a small online bookstore to a global
+            technology leader. From retail and cloud computing to AI and logistics,
+            we innovate every day to serve millions of customers worldwide.
+        </p>
+    </section>
+
+    <section class="mission">
+        <h2>Our Mission</h2>
+        <p>
+            Our mission is to continually raise the bar of the customer experience by using
+            the internet and technology to help consumers find, discover, and buy anything,
+            and empower businesses and content creators to maximize their success.
+        </p>
+    </section>
+
+    <section class="team">
+        <h2>Our Leadership</h2>
+        <div class="team-members">
+            <div class="member">
+                <img src="https://via.placeholder.com/150" alt="Leader 1">
+                <h3>Jeff Bezos</h3>
+                <p>Founder</p>
+            </div>
+            <div class="member">
+                <img src="https://via.placeholder.com/150" alt="Leader 2">
+                <h3>Andy Jassy</h3>
+                <p>CEO</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Amazon, Inc. All rights reserved.</p>
+    </footer>
+</body>
+</html>

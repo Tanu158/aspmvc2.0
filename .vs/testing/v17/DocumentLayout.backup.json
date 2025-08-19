@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\views\\home\\submitcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\views\\home\\submitcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\wwwroot\\css\\landing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\wwwroot\\css\\landing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|c:\\users\\atiplgdm05\\source\\repos\\testing\\testing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6D50C30-630F-4086-B4FB-3928D172C564}|testing\\testing.csproj|solutionrelative:testing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "testing\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "testing\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:37:14.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "landing.css",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\wwwroot\\css\\landing.css",
+              "RelativeDocumentMoniker": "testing\\wwwroot\\css\\landing.css",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\wwwroot\\css\\landing.css",
+              "RelativeToolTip": "testing\\wwwroot\\css\\landing.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-19T07:08:35.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Landing.cshtml",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Home\\Landing.cshtml",
+              "RelativeDocumentMoniker": "testing\\Views\\Home\\Landing.cshtml",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Home\\Landing.cshtml",
+              "RelativeToolTip": "testing\\Views\\Home\\Landing.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:07:53.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "testing\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "testing\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:04:51.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Program.cs",
+              "RelativeDocumentMoniker": "testing\\Program.cs",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Program.cs",
+              "RelativeToolTip": "testing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:01:42.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\appsettings.json",
+              "RelativeDocumentMoniker": "testing\\appsettings.json",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\appsettings.json",
+              "RelativeToolTip": "testing\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T09:01:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "testing\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Properties\\launchSettings.json",
+              "RelativeToolTip": "testing\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T09:01:36.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "testing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "testing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:00:42.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "testing\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "testing\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:25:11.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "testing\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "testing\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:14:39.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubmitContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Home\\SubmitContact.cshtml",
+              "RelativeDocumentMoniker": "testing\\Views\\Home\\SubmitContact.cshtml",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\Views\\Home\\SubmitContact.cshtml",
+              "RelativeToolTip": "testing\\Views\\Home\\SubmitContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:31:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "testing\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "testing\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-19T07:11:35.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "about.css",
+              "DocumentMoniker": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\wwwroot\\css\\about.css",
+              "RelativeDocumentMoniker": "testing\\wwwroot\\css\\about.css",
+              "ToolTip": "C:\\Users\\ATIPLGDM05\\source\\repos\\testing\\testing\\wwwroot\\css\\about.css",
+              "RelativeToolTip": "testing\\wwwroot\\css\\about.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwF0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-19T07:15:13.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

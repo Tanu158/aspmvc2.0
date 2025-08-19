@@ -1,0 +1,130 @@
+﻿@{
+    ViewData["Title"] = "Contact Us";
+}
+@if (ViewBag.Message != null)
+{
+    <p style="color:green; font-weight:bold;">@ViewBag.Message</p>
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Amazon</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f9f9f9;
+        }
+
+        .header {
+            background: #232f3e;
+            padding: 15px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: white;
+        }
+
+        .header .logo {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .header nav ul {
+            list-style: none;
+            display: flex;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header nav ul li {
+            margin-left: 20px;
+        }
+
+        .header nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .header nav ul li a.active {
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            color: #232f3e;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        button {
+            background: #ff9900;
+            border: none;
+            padding: 12px 20px;
+            font-size: 16px;
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background: #e68a00;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="logo">Amazon</div>
+        <nav>
+            <ul>
+                <li>@Html.ActionLink("Home", "Landing", "Home")</li>
+                @* <li>@Html.ActionLink("Landing", "Landing", "Home")</li> *@
+                <li>@Html.ActionLink("About Us", "About", "Home")</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home", null, new { @class = "active" })</li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h2>Contact Us</h2>
+        <form method="post" action="/Home/SubmitContact">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Your Email</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Your Message</label>
+            <textarea id="message" name="message" rows="5" required></textarea>
+
+            <button type="submit">Send Message</button>
+        </form>
+    </div>
+</body>
+</html>

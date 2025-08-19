@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "Amazon Landing Page";
+    Layout = null; // Or use _Layout.cshtml if you have one
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Landing Page</title>
+    <link rel="stylesheet" href="~/css/landing.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">Amazon</div>
+        <nav>
+            <ul>
+                <li>@Html.ActionLink("Home", "Landing", "Home")</li>
+                @* <li>@Html.ActionLink("Landing", "Landing", "Home")</li> *@
+                <li>@Html.ActionLink("About", "About", "Home", null, new { @class = "active" })</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Welcome to Amazon</h1>
+            <p>Shop millions of products with great deals and fast delivery!</p>
+            <a href="#" class="btn-primary">Start Shopping</a>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="feature">
+            <h2>Fast Delivery</h2>
+            <p>Get your orders delivered quickly to your doorstep.</p>
+        </div>
+        <div class="feature">
+            <h2>Best Prices</h2>
+            <p>Find the lowest prices on millions of products.</p>
+        </div>
+        <div class="feature">
+            <h2>24/7 Support</h2>
+            <p>Our support team is here to help you anytime.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Amazon, Inc. All rights reserved.</p>
+    </footer>
+</body>
+</html>
